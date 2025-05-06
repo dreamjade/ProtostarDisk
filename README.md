@@ -26,10 +26,10 @@ The script visualizes the following four distinct stages:
 *(This script will generate two plot windows similar to the ones described below)*
 
 **Face-On View:** A 2x2 grid showing the disk stages from above.
-![Placeholder for Face-On Output](face_on.png)
+![Placeholder for Face-On Output](face_on.jpg)
 
 **Edge-On View:** A 2x2 grid showing the disk stages from the side, illustrating thickness and flaring.
-![Placeholder for Edge-On Output](edge_on.png)
+![Placeholder for Edge-On Output](edge_on.jpg)
 
 ## Requirements
 
